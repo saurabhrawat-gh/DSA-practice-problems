@@ -1,3 +1,4 @@
+package basic;
 import java.util.Scanner;
 
 public class First_n_natural_number_sum {
