@@ -1,4 +1,3 @@
-package basic;
 import java.util.Scanner;
 
 public class First_n_whole_numbers_sum {

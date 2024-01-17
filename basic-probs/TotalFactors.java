@@ -1,9 +1,6 @@
-package basic;
-
-
 import java.util.Scanner;
 
-class Number_of_factors {
+class TotalFactors {
     public static void main(String[] args) {
         try (Scanner in = new Scanner(System.in)) {
             System.out.print("Enter a number: ");

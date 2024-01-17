@@ -1,8 +1,6 @@
-package basic;
-
 import java.util.Scanner;
 
-class Find_if_prime {
+class IsPrime {
     public static void main(String[] args) {
         try (Scanner in = new Scanner(System.in)) {
             System.out.print("Enter a digit: ");

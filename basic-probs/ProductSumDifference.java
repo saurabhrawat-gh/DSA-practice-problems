@@ -1,7 +1,6 @@
-package basic;
 import java.util.Scanner;
 
-public class First {
+public class ProductSumDifference {
     public static void main(String[] args) {
         try(Scanner in = new Scanner(System.in)){
             System.out.print("Enter a digit: ");
