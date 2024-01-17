@@ -11,6 +11,9 @@ public class RotateArray {
             System.out.print(" Enter rotating number: ");
             int k = in.nextInt();
 
+            /* Most important part */
+            k = k % size;
+
             System.out.print(" Enter an arr: ");
             int[] arr = new int[size];
 
